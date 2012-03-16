@@ -2,6 +2,7 @@ body > header {
   background: $header-bg;
   h1 {
     display: inline-block;
+	font-weight: bold;
     margin: 0;
     a, a:visited, a:hover {
       color: $title_color;
